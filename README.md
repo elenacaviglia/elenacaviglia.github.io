@@ -1,5 +1,5 @@
-# Luca Mesiti
+# Elena Caviglia
 
-This is my personal website. I am a third-year PhD student in Category Theory (Mathematics) at the School of Mathematics of the University of Leeds, UK.
+This is my personal website. I am a third-year PhD student in Mathematics at the University of Leicester, UK.
 
-My main research interests are the Grothendieck construction and its generalizations, enriched category theory, 2-category theory and 2-categorical elementary topoi.
+I am interested in Category Theory and its applications to Algebraic Topology and Algebraic Geometry.

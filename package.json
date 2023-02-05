@@ -1,26 +1,30 @@
 {
-  "name": "Luca Mesiti",
+  "name": "Elena Caviglia",
   "version": "1.0.0",
-  "description": "I am a PhD student in Category Theory, Mathematics",
+  "description": "I am a PhD student in Mathematics",
   "repository": {
     "type": "git",
-    "url": "git://github.com/lucamesiti/lucamesiti.github.io"
+    "url": "git://github.com/elenacaviglia/elenacaviglia.github.io"
   },
   "keywords": [
-    "mesiti",
-    "luca mesiti",
+    "caviglia",
+    "elena caviglia",
     "mathematics",
     "maths",
     "math",
     "category theory",
-    "categories"
+    "categories",
+    "geometry",
+    "algebraic topology",
+    "algebraic geometry"
+    
   ],
-  "author": "Luca Mesiti",
+  "author": "Elena Caviglia",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mmistakes/minimal-mistakes/issues"
   },
-  "homepage": "https://lucamesiti.github.io",
+  "homepage": "https://elenacaviglia.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },

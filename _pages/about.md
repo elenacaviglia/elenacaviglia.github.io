@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-My email address is mmlme@leeds.ac.uk
+My email address is ec363@leicester.ac.uk
 
-I am a third-year PhD student in Category Theory at the University of Leeds, UK (School of Mathematics), under the supervision of Nicola Gambino. I am currently visiting the University of Manchester, UK.
+I am a third-year PhD student in Mathematics at the University of Leicester (UK), under the supervision of Frank Neumann. I am interested in Category Theory and its applications to Algebraic Topology and Algebraic Geometry. My main research topics are stacks and their cohomology theories.
 
-My main research interests are the Grothendieck construction and its generalizations, enriched category theory, 2-category theory and 2-categorical elementary topoi. Look at the Research section if you are interested in my contributions.
 
-I like creating and playing board games as a hobby.

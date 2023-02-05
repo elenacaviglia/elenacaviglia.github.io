@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-AL"
-title                    : "Luca Mesiti"
+title                    : "Elena Caviglia"
 title_separator          : "-"
-name                     : &name "Luca Mesiti"
+name                     : &name "Elena Caviglia"
 description              : &description "personal description"
-url                      : https://lucamesiti.github.io
+url                      : https://elenacaviglia.github.io
 baseurl                  : ""
-repository               : "lucamesiti/lucamesiti.github.io"
+repository               : "elenacaviglia/elenacaviglia.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luca Mesiti"
+  name             : "Elena Caviglia"
   avatar           : "profile_image.jpg"
-  bio              : "Third-year PhD student in Category Theory"
-  location         : "University of Leeds, UK"
+  bio              : "Third-year PhD student in Mathematics"
+  location         : "University of Leicester, UK"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : mmlme@leeds.ac.uk
+  email            :ec363@leicester.ac.uk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

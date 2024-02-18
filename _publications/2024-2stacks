@@ -4,7 +4,7 @@ collection: publications
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: 'A stack is a bicategorical generalization of a sheaf. It is a pseudofunctor, which is a sheaf on morphisms and is able to glue families of objects that are compatible under descent up to coherent isomorphisms. As this notion has been proven very useful in different areas of mathematics, especially in algebraic geometry and differential geometry, one could wonder whether it is possible to generalize it to one dimension higher.
 The idea is that of a tricategorical sheaf, that now glues families of objects that are compatible under descent up to coherent adjoint equivalences. Taking inspiration from a characterization of stack due to Ross Street, we define what it means for a trihomomorphism F from a 2-category to Bicat to be a 2-stack. For this, we will need to endow K with a 2-dimensional topology, that will be given using 2-dimensional sieves. After proposing an abstract definition of 2-stack, we will translate it into more explicit conditions, obtaining a definition which is more similar to the one of stack. The abstract definition will guide us to require the right coherences. '
-date: 
+date: 2024-01-01
 venue: 'In preparation'
 paperurl: ''
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'

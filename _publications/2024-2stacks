@@ -4,7 +4,7 @@ collection: publications
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: 'We generalize the concept of stack one dimension higher, introducing a notion of 2-stack suitable for a trihomomorphism from a 2-category equipped with a bitopology into the tricategory of bicategories. Moreover, we give a characterization of 2-stacks in terms of explicit conditions, that are easier to use in practice. These explicit conditions are effectiveness conditions for appropriate data of descent on objects, morphisms and 2-cells, generalizing the usual stacky gluing conditions one dimension higher. Furthermore, we prove some new results on bitopologies. The main one is that every object of a subcanonical bisite can be seen as the sigma-bicolimit of each covering bisieve over it. This generalizes one dimension higher a well-know result for subcanonical Grothendieck sites.'
 date: 2024-03-12
-venue: 'preprint submitted'
+venue: 'preprint'
 paperurl: 'https://arxiv.org/abs/2403.08030'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

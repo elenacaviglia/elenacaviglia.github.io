@@ -4,7 +4,7 @@ collection: publications
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: 'We generalize principal bundles and quotient stacks to the two-categorical context of bisites. We introduce a notion of principal 2-bundle that makes sense for a 2-category with finite flexible limits, endowed with a bitopology. We then use principal 2-bundles to explicitly construct quotient-pre-2-stacks, which are the analogues of quotient stacks one dimension higher. In order to perform this construction, we prove that principal 2-bundles are closed under iso-comma objects and we restrict ourselves to $(2,1)$-categories. Finally, we prove that, if the bisite is subcanonical and the underlying $(2,1)$-category satisfies some mild conditions, quotient pre-2-stacks are 2-stacks.'
 date: 2024-03-14
-venue: 'In preparation'
+venue: 'preprint'
 paperurl: 'https://arxiv.org/abs/2403.09379'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

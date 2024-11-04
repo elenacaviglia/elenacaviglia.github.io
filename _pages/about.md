@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I have just completed my PhD in Mathematics at the University of Leicester (UK), under the supervision of Frank Neumann. I will soon start a postdoc at Stellenbosch University (South Africa).
-I am interested in Category Theory and its applications to Algebraic Topology and Algebraic Geometry. My main research topics are stacks and their cohomology theories and Grothendieck fibrations.
-I am a teaching assistant of the Adjoint School 2024 for the project "Properties of Double Fibrations" mentored by Dorette Pronk.
+I'm a postdoc in category theory at Stellenbosch University (South Africa). Before that, I obtained a PhD in Mathematics at the University of Leicester (UK), under the supervision of Frank Neumann. I have also been a teaching assistant of the Adjoint School 2024 for the project "Properties of Double Fibrations" mentored by Dorette Pronk.
 
-My email address is elena.caviglia@outlook.com
+I am interested in Category Theory and its applications to algebra, topology and geometry. My current research mainly focuses on two-dimensional category theory, categorical algebra and pointfree topology.
+
+My email addresses are elena.caviglia@outlook.com and caviglia@sun.ac.za

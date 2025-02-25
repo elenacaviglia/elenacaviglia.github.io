@@ -1,5 +1,5 @@
 # Elena Caviglia
 
-This is my personal website. I am a third-year PhD student in Mathematics at the University of Leicester, UK.
+This is my personal website. I am a postdoc Mathematics at Stellenbosch University, South Africa.
 
-I am interested in Category Theory and its applications to Algebraic Topology and Algebraic Geometry.
+I am interested in Category Theory and its applications to algebra, topology and geometry.

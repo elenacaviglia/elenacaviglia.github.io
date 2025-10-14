@@ -5,7 +5,7 @@ permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: 'Joint work with Luca Mesiti.'
 date: 2024-07-31
 venue: 'Theory and Applications of Categories, Vol. 41,No. 28, pp 894-926'
-paperurl: 'http://www.tac.mta.ca/tac/volumes/41/28/41-28.pdf'
+paperurl: #'http://www.tac.mta.ca/tac/volumes/41/28/41-28.pdf'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 Joint work with Luca Mesiti.

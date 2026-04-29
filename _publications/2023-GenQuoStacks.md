@@ -1,6 +1,7 @@
 ---
 title: "Generalized principal bundles and quotient stacks"
 collection: publications
+category: published
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2023-06-01

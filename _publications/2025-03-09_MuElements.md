@@ -1,7 +1,7 @@
 ---
 title: "μ-elements: An extension of essential elements"
 collection: publications
-category: preprint
+category: published
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: 'Joint work with Amartya Goswami and Luca Mesiti.'
 date: 2025-12-16

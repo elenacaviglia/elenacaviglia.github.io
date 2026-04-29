@@ -57,11 +57,11 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               : #
+  app_id                 : #
+  publisher              : #
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -69,6 +69,17 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+
+# Publication Category - The following the list of publication categories and their headings
+publication_category:
+  published:
+    title: 'Publications'    
+  preprint:
+    title: 'Preprints'
+  book:
+    title: 'Books'
+  other:
+    title: 'Other contributions'
 
 
 # Analytics
@@ -82,7 +93,7 @@ analytics:
 author:
   name             : "Elena Caviglia"
   avatar           : "profile2024.png"
-  bio              : "Researcher in Category Theory"
+  bio              : "Researcher in Mathematics"
   location         : "Stellenbosch University, South Africa"
   employer         :
   pubmed           :
@@ -200,7 +211,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:

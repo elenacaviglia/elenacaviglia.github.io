@@ -1,0 +1,14 @@
+---
+title: "A Mayer-Vietoris calculus for regular denominators"
+collection: publications
+category: preprint
+permalink: #/publication/2009-10-01-paper-title-number-1
+excerpt: 'Joint work with Amartya Goswami.'
+date: 2026-08-21
+venue: 'Preprint'
+paperurl: #'https://arxiv.org/abs/2608.21102'
+citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+Joint work with Amartya Goswami.
+Let A be a commutative ring and let I be an ideal. An element a∈A is a regular denominator for I when multiplication by a on A/I is injective; we denote the set of all such elements by SI. We study how the common regular denominators for two ideals I and J are related to I∩J and I+J. This yields a particularly simple description when I and J are comaximal. Over Noetherian rings, the same viewpoint classifies denominator-equivalence classes by finite nonempty antichains of prime ideals, gives bounds for the associated primes of an intersection and leads to a local length identity. Furthermore, we show that flat base change preserves regular denominators, faithful flatness reflects them, and finite locally free quotients have fiberwise regular loci defined by determinants satisfying a multiplicative Mayer-Vietoris formula. Our results provide alternatives to primary-decomposition computations in many concrete situations.
+Download [here](https://arxiv.org/abs/2608.21102)

@@ -5,7 +5,7 @@ category: published
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: 'Joint work with Amartya Goswami and Luca Mesiti.'
 date: 2026-04-29
-venue: 'Journal of Algebra, Vol. 707, pp. 293-310, 2026'
+venue: 'Journal of Algebra, Vol. 707, pp. 293-310'
 paperurl: #'https://arxiv.org/abs/2502.09562'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

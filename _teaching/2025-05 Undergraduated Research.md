@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate research programme"
 permalink: false
 venue: "Stellenbosch University, South Africa"
-date: 2021-01-01
+date: 2025-05-01
 location: "Stellenbosch, South Africa"
 ---
 
